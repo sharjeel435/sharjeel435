@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharjeel435
-- 👀 I’m interested in Java Developement and passionate Computer Science Student.
+- 👀 I’m interested in Java and Python Backend Developement and passionate Computer Science Student.
 - 🌱 I’m currently learning multiple technolgies related to developement and student in FAST 26'.
 - 📫 How to reach me through sharjeelsafdar435@gmail.com
 <!---
